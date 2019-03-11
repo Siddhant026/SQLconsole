@@ -1,0 +1,22 @@
+2019-02-18 10:44:09 ERROR NameValidator:41 - 
+ 
+com.sql.exceptions.SpecialCharacterException: Special Character Exception"Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
+2019-02-18 12:30:47 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:31:26 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:32:33 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:33:08 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:34:17 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:34:58 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:35:50 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 12:36:20 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 13:56:21 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 13:57:12 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 13:57:37 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 14:46:28 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 14:47:40 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 14:50:27 INFO  NameValidator:28 - At this time the Table/Database is created/detelted
+2019-02-18 14:52:18 ERROR NameValidator:42 - 
+ 
+com.sql.exceptions.SpecialCharacterException: Special Character Exception"Oops.. You have given special characters into file name . This System does not take Special characters ...!"
+
